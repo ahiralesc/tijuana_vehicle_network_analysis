@@ -1,0 +1,78 @@
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        
+
+         {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "name": "Prueba 3",
+                "ref": "No usar",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -117.07095087111,
+                        32.52545913223
+                    ],
+                    [
+                        -117.07206131101,
+                        32.52615454886
+                    ],
+                    [
+                        -117.07294106752,
+                        32.52704330484
+                    ],
+                    [
+                        -117.07391739428,
+                        32.52797729004
+                    ]
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "name": "Prueba 2",
+                "ref": "No usar",
+                "oneway": "yes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -117.07294106752,
+                        32.52704330484
+                    ],
+                    [
+                        -117.07174480498,
+                        32.52884568194
+                    ],
+                    [
+                        -117.07280427486,
+                        32.52935902198
+                    ],
+                    [
+                        -117.07323879272,
+                        32.52964622102
+                    ],
+                    [
+                        -117.07280427486,
+                        32.52935902198
+                    ],
+                    [
+                        -117.07174480498,
+                        32.52884568194
+                    ]
+                ]
+            }
+        }
+		
+		
+	]
+}

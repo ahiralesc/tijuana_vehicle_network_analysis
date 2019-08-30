@@ -1,0 +1,251 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "name": "Ruta 5",
+                "oneway": "yes",
+                "ref": "Lazaro Cardenas-Centro"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -117.07516867469,
+                        32.52996372060
+                    ],
+                    [
+                        -117.07357943594,
+                        32.52958064248
+                    ],
+                    [
+                        -117.07323879272,
+                        32.52964622102
+                    ],
+                    [
+                        -117.06959903777,
+                        32.53013920847
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "name": "Ruta 7",
+                "oneway": "yes",
+                "ref": "Ramirez-Obrera-Periferico-Centro"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -117.07449675679,
+                        32.52854265483
+                    ],
+                    [
+                        -117.07339164773,
+                        32.52892324580
+                    ],
+                    [
+                        -117.07323879272,
+                        32.52964622102
+                    ],
+                    [
+                        -117.06959903777,
+                        32.53013920847
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "camp_site",
+                "name": "Region 1"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -117.07350903581,
+                            32.52900789452
+                        ],
+                        [
+                            -117.07620080441,
+                            32.52964718297
+                        ],
+                        [
+                            -117.07494970070,
+                            32.53127734795
+                        ],
+                        [
+                            -117.07244749326,
+                            32.53041432312
+                        ],
+                        [
+                            -117.07328155609,
+                            32.52988158227
+                        ],
+                        [
+                            -117.07350903581,
+                            32.52900789452
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "name": "Ruta 3",
+                "oneway": "yes",
+                "ref": "Flores Magon-Michoacan-Herrera-Centro"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -117.07294375777,
+                        32.53101210674
+                    ],
+                    [
+                        -117.07357943594,
+                        32.52958064248
+                    ],
+                    [
+                        -117.07449675679,
+                        32.52854265483
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "camp_site",
+                "name": "Region 2"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -117.07291507748,
+                            32.53134127538
+                        ],
+                        [
+                            -117.07345848616,
+                            32.53097901931
+                        ],
+                        [
+                            -117.07081726720,
+                            32.53017991988
+                        ],
+                        [
+                            -117.06998319806,
+                            32.52909313324
+                        ],
+                        [
+                            -117.06865626987,
+                            32.53101098314
+                        ],
+                        [
+                            -117.07291507748,
+                            32.53134127538
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "name": "Ruta 4",
+                "oneway": "yes",
+                "ref": "Flores Magon-Michoacan-Herrera-Centro"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -117.07174480498,
+                        32.52884568194
+                    ],
+                    [
+                        -117.07323879272,
+                        32.52964622102
+                    ],
+                    [
+                        -117.07084885441,
+                        32.52941277241
+                    ],
+                    [
+                        -117.06959903777,
+                        32.53013920847
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "name": "Ruta 6",
+                "oneway": "yes",
+                "ref": "Alamos-Central C.-Buena Vista-Linea-Centro-Playas"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -117.06959903777,
+                        32.53013920847
+                    ],
+                    [
+                        -117.07294375777,
+                        32.53101210674
+                    ],
+                    [
+                        -117.06972412481,
+                        32.53090443167
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "highway": "residential",
+                "name": "Ruta 7",
+                "oneway": "yes",
+                "ref": "Ramirez-Obrera-Periferico-Centro"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -117.06959903777,
+                        32.53013920847
+                    ],
+                    [
+                        -117.07294375777,
+                        32.53101210674
+                    ],
+                    [
+                        -117.07516867469,
+                        32.52996372060
+                    ]
+                ]
+            }
+        }
+    ]
+}
